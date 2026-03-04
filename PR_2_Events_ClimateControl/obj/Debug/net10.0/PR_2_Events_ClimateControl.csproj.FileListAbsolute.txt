@@ -1,0 +1,14 @@
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/bin/Debug/net10.0/PR_2_Events_ClimateControl
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/bin/Debug/net10.0/PR_2_Events_ClimateControl.deps.json
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/bin/Debug/net10.0/PR_2_Events_ClimateControl.runtimeconfig.json
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/bin/Debug/net10.0/PR_2_Events_ClimateControl.dll
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/bin/Debug/net10.0/PR_2_Events_ClimateControl.pdb
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/obj/Debug/net10.0/PR_2_Events_ClimateControl.GeneratedMSBuildEditorConfig.editorconfig
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/obj/Debug/net10.0/PR_2_Events_ClimateControl.AssemblyInfoInputs.cache
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/obj/Debug/net10.0/PR_2_Events_ClimateControl.AssemblyInfo.cs
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/obj/Debug/net10.0/PR_2_Events_ClimateControl.csproj.CoreCompileInputs.cache
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/obj/Debug/net10.0/PR_2_Events_ClimateControl.dll
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/obj/Debug/net10.0/refint/PR_2_Events_ClimateControl.dll
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/obj/Debug/net10.0/PR_2_Events_ClimateControl.pdb
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/obj/Debug/net10.0/PR_2_Events_ClimateControl.genruntimeconfig.cache
+/home/sedziro/RiderProjects/PR_2_Events_ClimateControl/PR_2_Events_ClimateControl/obj/Debug/net10.0/ref/PR_2_Events_ClimateControl.dll
