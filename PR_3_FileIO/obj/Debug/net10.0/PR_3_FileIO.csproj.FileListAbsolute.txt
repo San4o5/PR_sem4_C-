@@ -1,0 +1,14 @@
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/bin/Debug/net10.0/PR_3_FileIO
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/bin/Debug/net10.0/PR_3_FileIO.deps.json
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/bin/Debug/net10.0/PR_3_FileIO.runtimeconfig.json
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/bin/Debug/net10.0/PR_3_FileIO.dll
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/bin/Debug/net10.0/PR_3_FileIO.pdb
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/obj/Debug/net10.0/PR_3_FileIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/obj/Debug/net10.0/PR_3_FileIO.AssemblyInfoInputs.cache
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/obj/Debug/net10.0/PR_3_FileIO.AssemblyInfo.cs
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/obj/Debug/net10.0/PR_3_FileIO.csproj.CoreCompileInputs.cache
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/obj/Debug/net10.0/PR_3_FileIO.dll
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/obj/Debug/net10.0/refint/PR_3_FileIO.dll
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/obj/Debug/net10.0/PR_3_FileIO.pdb
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/obj/Debug/net10.0/PR_3_FileIO.genruntimeconfig.cache
+/home/sedziro/RiderProjects/PR_3_FileIO/PR_3_FileIO/obj/Debug/net10.0/ref/PR_3_FileIO.dll
