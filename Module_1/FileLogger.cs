@@ -1,4 +1,4 @@
-namespace Modul_1;
+namespace Module_1;
 
 public class FileLogger
 {

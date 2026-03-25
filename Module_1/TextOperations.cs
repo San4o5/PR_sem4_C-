@@ -1,4 +1,4 @@
-namespace Modul_1; //Task 1
+namespace Module_1; //Task 1
 
 public delegate string TextOperation(string line);
 public class TextOperations

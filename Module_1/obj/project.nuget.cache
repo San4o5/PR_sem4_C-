@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zfa34GJ+Hrc=",
+  "dgSpecHash": "iYnDC/CQ5Tk=",
   "success": true,
-  "projectFilePath": "/home/sedziro/RiderProjects/Modul_1/Modul_1/Modul_1.csproj",
+  "projectFilePath": "/home/sedziro/RiderProjects/Modul_1/Module_1/Module_1.csproj",
   "expectedPackageFiles": [
     "/home/sedziro/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
   ],

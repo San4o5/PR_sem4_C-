@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sedziro/RiderProjects/Modul_1/Modul_1/Modul_1.csproj",
-      "projectName": "Modul_1",
-      "projectPath": "/home/sedziro/RiderProjects/Modul_1/Modul_1/Modul_1.csproj",
+      "projectUniqueName": "/home/sedziro/RiderProjects/Modul_1/Module_1/Module_1.csproj",
+      "projectName": "Module_1",
+      "projectPath": "/home/sedziro/RiderProjects/Modul_1/Module_1/Module_1.csproj",
       "packagesPath": "/home/sedziro/.nuget/packages/",
-      "outputPath": "/home/sedziro/RiderProjects/Modul_1/Modul_1/obj/",
+      "outputPath": "/home/sedziro/RiderProjects/Modul_1/Module_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sedziro/.nuget/NuGet/NuGet.Config"

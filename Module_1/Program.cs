@@ -1,12 +1,12 @@
-﻿namespace Modul_1;
+﻿namespace Module_1;
 
 class Program
 {
     static void Main(string[] args)
     {
         // Task 1
-        string inputFile = "/home/sedziro/RiderProjects/Modul_1/Modul_1/textPD23.txt"; 
-        string outputFile = "/home/sedziro/RiderProjects/Modul_1/Modul_1/resultPD23.txt";
+        string inputFile = "/home/sedziro/RiderProjects/Module_1/Module_1/textPD23.txt"; 
+        string outputFile = "/home/sedziro/RiderProjects/Module_1/Module_1/resultPD23.txt";
         
         File.WriteAllText(outputFile, "");
 
@@ -15,7 +15,7 @@ class Program
         FileProcessor.ProcessFile(inputFile, outputFile, TextOperations.CountWords);
 
         //Task 2
-        string logFile = "/home/sedziro/RiderProjects/Modul_1/Modul_1/logPD23.txt";
+        string logFile = "/home/sedziro/RiderProjects/Module_1/Module_1/logPD23.txt";
         
         MessagePublisher publisher = new MessagePublisher();
         FileLogger logger = new FileLogger(logFile, publisher);
