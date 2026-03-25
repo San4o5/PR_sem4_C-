@@ -1,0 +1,14 @@
+/home/sedziro/RiderProjects/Modul_1/Modul_1/obj/Debug/net10.0/Modul_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/sedziro/RiderProjects/Modul_1/Modul_1/obj/Debug/net10.0/Modul_1.AssemblyInfoInputs.cache
+/home/sedziro/RiderProjects/Modul_1/Modul_1/obj/Debug/net10.0/Modul_1.AssemblyInfo.cs
+/home/sedziro/RiderProjects/Modul_1/Modul_1/obj/Debug/net10.0/Modul_1.csproj.CoreCompileInputs.cache
+/home/sedziro/RiderProjects/Modul_1/Modul_1/bin/Debug/net10.0/Modul_1
+/home/sedziro/RiderProjects/Modul_1/Modul_1/bin/Debug/net10.0/Modul_1.deps.json
+/home/sedziro/RiderProjects/Modul_1/Modul_1/bin/Debug/net10.0/Modul_1.runtimeconfig.json
+/home/sedziro/RiderProjects/Modul_1/Modul_1/bin/Debug/net10.0/Modul_1.dll
+/home/sedziro/RiderProjects/Modul_1/Modul_1/bin/Debug/net10.0/Modul_1.pdb
+/home/sedziro/RiderProjects/Modul_1/Modul_1/obj/Debug/net10.0/Modul_1.dll
+/home/sedziro/RiderProjects/Modul_1/Modul_1/obj/Debug/net10.0/refint/Modul_1.dll
+/home/sedziro/RiderProjects/Modul_1/Modul_1/obj/Debug/net10.0/Modul_1.pdb
+/home/sedziro/RiderProjects/Modul_1/Modul_1/obj/Debug/net10.0/Modul_1.genruntimeconfig.cache
+/home/sedziro/RiderProjects/Modul_1/Modul_1/obj/Debug/net10.0/ref/Modul_1.dll

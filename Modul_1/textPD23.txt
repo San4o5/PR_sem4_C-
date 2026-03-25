@@ -1,0 +1,4 @@
+Gone are the days when C# was tied to a single OS.
+With .NET, you can build for Windows, Linux, and macOS with one unified codebase.
+Write once, run everywhere, and never look back.
+PD23

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zfa34GJ+Hrc=",
+  "success": true,
+  "projectFilePath": "/home/sedziro/RiderProjects/Modul_1/Modul_1/Modul_1.csproj",
+  "expectedPackageFiles": [
+    "/home/sedziro/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
