@@ -1,0 +1,14 @@
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/bin/Debug/net10.0/CircularReference
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/bin/Debug/net10.0/CircularReference.deps.json
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/bin/Debug/net10.0/CircularReference.runtimeconfig.json
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/bin/Debug/net10.0/CircularReference.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/bin/Debug/net10.0/CircularReference.pdb
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/obj/Debug/net10.0/CircularReference.GeneratedMSBuildEditorConfig.editorconfig
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/obj/Debug/net10.0/CircularReference.AssemblyInfoInputs.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/obj/Debug/net10.0/CircularReference.AssemblyInfo.cs
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/obj/Debug/net10.0/CircularReference.csproj.CoreCompileInputs.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/obj/Debug/net10.0/CircularReference.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/obj/Debug/net10.0/refint/CircularReference.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/obj/Debug/net10.0/CircularReference.pdb
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/obj/Debug/net10.0/CircularReference.genruntimeconfig.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/CircularReference/obj/Debug/net10.0/ref/CircularReference.dll

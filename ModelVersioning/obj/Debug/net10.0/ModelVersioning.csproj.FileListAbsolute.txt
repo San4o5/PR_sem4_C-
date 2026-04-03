@@ -1,0 +1,14 @@
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/bin/Debug/net10.0/ModelVersioning
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/bin/Debug/net10.0/ModelVersioning.deps.json
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/bin/Debug/net10.0/ModelVersioning.runtimeconfig.json
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/bin/Debug/net10.0/ModelVersioning.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/bin/Debug/net10.0/ModelVersioning.pdb
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/obj/Debug/net10.0/ModelVersioning.GeneratedMSBuildEditorConfig.editorconfig
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/obj/Debug/net10.0/ModelVersioning.AssemblyInfoInputs.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/obj/Debug/net10.0/ModelVersioning.AssemblyInfo.cs
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/obj/Debug/net10.0/ModelVersioning.csproj.CoreCompileInputs.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/obj/Debug/net10.0/ModelVersioning.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/obj/Debug/net10.0/refint/ModelVersioning.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/obj/Debug/net10.0/ModelVersioning.pdb
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/obj/Debug/net10.0/ModelVersioning.genruntimeconfig.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ModelVersioning/obj/Debug/net10.0/ref/ModelVersioning.dll

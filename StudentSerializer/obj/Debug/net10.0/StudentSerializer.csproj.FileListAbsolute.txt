@@ -1,0 +1,14 @@
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/bin/Debug/net10.0/StudentSerializer
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/bin/Debug/net10.0/StudentSerializer.deps.json
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/bin/Debug/net10.0/StudentSerializer.runtimeconfig.json
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/bin/Debug/net10.0/StudentSerializer.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/bin/Debug/net10.0/StudentSerializer.pdb
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/obj/Debug/net10.0/StudentSerializer.GeneratedMSBuildEditorConfig.editorconfig
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/obj/Debug/net10.0/StudentSerializer.AssemblyInfoInputs.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/obj/Debug/net10.0/StudentSerializer.AssemblyInfo.cs
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/obj/Debug/net10.0/StudentSerializer.csproj.CoreCompileInputs.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/obj/Debug/net10.0/StudentSerializer.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/obj/Debug/net10.0/refint/StudentSerializer.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/obj/Debug/net10.0/StudentSerializer.pdb
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/obj/Debug/net10.0/StudentSerializer.genruntimeconfig.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/StudentSerializer/obj/Debug/net10.0/ref/StudentSerializer.dll

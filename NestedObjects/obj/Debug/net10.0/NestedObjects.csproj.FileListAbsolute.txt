@@ -1,0 +1,14 @@
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/bin/Debug/net10.0/NestedObjects
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/bin/Debug/net10.0/NestedObjects.deps.json
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/bin/Debug/net10.0/NestedObjects.runtimeconfig.json
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/bin/Debug/net10.0/NestedObjects.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/bin/Debug/net10.0/NestedObjects.pdb
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/obj/Debug/net10.0/NestedObjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/obj/Debug/net10.0/NestedObjects.AssemblyInfoInputs.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/obj/Debug/net10.0/NestedObjects.AssemblyInfo.cs
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/obj/Debug/net10.0/NestedObjects.csproj.CoreCompileInputs.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/obj/Debug/net10.0/NestedObjects.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/obj/Debug/net10.0/refint/NestedObjects.dll
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/obj/Debug/net10.0/NestedObjects.pdb
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/obj/Debug/net10.0/NestedObjects.genruntimeconfig.cache
+/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/NestedObjects/obj/Debug/net10.0/ref/NestedObjects.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pVu0FMCQWEg=",
+  "success": true,
+  "projectFilePath": "/home/sedziro/RiderProjects/PR_4_SerializationDeserialization/ErrorHandling/ErrorHandling.csproj",
+  "expectedPackageFiles": [
+    "/home/sedziro/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

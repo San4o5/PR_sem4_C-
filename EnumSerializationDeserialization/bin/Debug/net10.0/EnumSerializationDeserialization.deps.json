@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EnumSerializationDeserialization/1.0.0": {
+        "runtime": {
+          "EnumSerializationDeserialization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnumSerializationDeserialization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
