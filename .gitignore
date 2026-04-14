@@ -1,1 +1,29 @@
-/PR_5_DataLibrary.sln
+# === [Bb]in & [Ob]j ===
+# Ігноруємо результати компіляції (вони генеруються автоматично)
+[Bb]in/
+[Ob]j/
+
+# === JetBrains Rider ===
+# Ігноруємо внутрішні налаштування IDE та кеш
+.idea/
+*.sln.DotSettings.user
+*.user
+*.userosscache
+
+# === Visual Studio (про всяк випадок) ===
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# === OS Files ===
+# Linux (Arch) приховані файли
+.DS_Store
+.directory
+.nfs*
+Thumbs.db
+
+# === Специфічні файли Rider/DotSettings ===
+_ReSharper.Caches/
+*.DotSettings.user
