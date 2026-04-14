@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "Type": "Note",
+    "Zone": "AshCapital",
+    "Title": "Commander\u0027s Order",
+    "Content": "",
+    "RelatedCharacter": "",
+    "IsCollected": true,
+    "CollectedAt": "2026-04-14T19:25:49.8399949+03:00",
+    "RevealsTruth": false
+  },
+  {
+    "Id": 2,
+    "Type": "Ghost",
+    "Zone": "AshCapital",
+    "Title": "Fallen Soldier",
+    "Content": "",
+    "RelatedCharacter": "",
+    "IsCollected": false,
+    "CollectedAt": null,
+    "RevealsTruth": false
+  },
+  {
+    "Id": 3,
+    "Type": "Item",
+    "Zone": "AshCapital",
+    "Title": "Kein\u0027s Research Page",
+    "Content": "",
+    "RelatedCharacter": "",
+    "IsCollected": true,
+    "CollectedAt": "2026-04-14T19:25:49.8426563+03:00",
+    "RevealsTruth": true
+  }
+]

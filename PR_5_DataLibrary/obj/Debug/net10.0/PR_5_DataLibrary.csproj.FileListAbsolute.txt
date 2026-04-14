@@ -1,0 +1,11 @@
+/home/sedziro/RiderProjects/PR_5_DataLibrary/PR_5_DataLibrary/bin/Debug/net10.0/PR_5_DataLibrary.deps.json
+/home/sedziro/RiderProjects/PR_5_DataLibrary/PR_5_DataLibrary/bin/Debug/net10.0/PR_5_DataLibrary.dll
+/home/sedziro/RiderProjects/PR_5_DataLibrary/PR_5_DataLibrary/bin/Debug/net10.0/PR_5_DataLibrary.pdb
+/home/sedziro/RiderProjects/PR_5_DataLibrary/PR_5_DataLibrary/obj/Debug/net10.0/PR_5_DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/sedziro/RiderProjects/PR_5_DataLibrary/PR_5_DataLibrary/obj/Debug/net10.0/PR_5_DataLibrary.AssemblyInfoInputs.cache
+/home/sedziro/RiderProjects/PR_5_DataLibrary/PR_5_DataLibrary/obj/Debug/net10.0/PR_5_DataLibrary.AssemblyInfo.cs
+/home/sedziro/RiderProjects/PR_5_DataLibrary/PR_5_DataLibrary/obj/Debug/net10.0/PR_5_DataLibrary.csproj.CoreCompileInputs.cache
+/home/sedziro/RiderProjects/PR_5_DataLibrary/PR_5_DataLibrary/obj/Debug/net10.0/PR_5_DataLibrary.dll
+/home/sedziro/RiderProjects/PR_5_DataLibrary/PR_5_DataLibrary/obj/Debug/net10.0/refint/PR_5_DataLibrary.dll
+/home/sedziro/RiderProjects/PR_5_DataLibrary/PR_5_DataLibrary/obj/Debug/net10.0/PR_5_DataLibrary.pdb
+/home/sedziro/RiderProjects/PR_5_DataLibrary/PR_5_DataLibrary/obj/Debug/net10.0/ref/PR_5_DataLibrary.dll

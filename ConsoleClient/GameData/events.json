@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "SaveSlotId": 1,
+    "EventType": "VisionTriggered",
+    "Description": "Vision #1: Kein says \u0027Find me.\u0027",
+    "Zone": 1,
+    "OccurredAt": "2026-04-14T19:25:49.8494843+03:00",
+    "Metadata": null
+  },
+  {
+    "Id": 2,
+    "SaveSlotId": 1,
+    "EventType": "PlayerDeath",
+    "Description": "Player died",
+    "Zone": 1,
+    "OccurredAt": "2026-04-14T19:25:49.8587919+03:00",
+    "Metadata": null
+  },
+  {
+    "Id": 3,
+    "SaveSlotId": 1,
+    "EventType": "PlayerDeath",
+    "Description": "Player died",
+    "Zone": 1,
+    "OccurredAt": "2026-04-14T19:25:49.8617323+03:00",
+    "Metadata": null
+  },
+  {
+    "Id": 4,
+    "SaveSlotId": 1,
+    "EventType": "BossDefeated",
+    "Description": "Warden defeated",
+    "Zone": 1,
+    "OccurredAt": "2026-04-14T19:25:49.8629647+03:00",
+    "Metadata": "{\u0022attempts\u0022:3}"
+  }
+]

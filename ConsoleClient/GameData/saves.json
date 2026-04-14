@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "SlotName": "Slot 1",
+    "CurrentZone": 1,
+    "CurrentCheckpoint": "checkpoint_zone1_boss",
+    "Health": 35,
+    "MaxHealth": 100,
+    "EquippedRelics": [
+      "WardenShield"
+    ],
+    "CollectedRelics": [
+      "WardenShield"
+    ],
+    "MemoryFragmentsTotal": 5,
+    "MemoryFragmentsCollected": 2,
+    "MemoryPercentage": 40,
+    "SeenVisions": [
+      1
+    ],
+    "DefeatedBosses": [
+      "Warden"
+    ],
+    "CreatedAt": "2026-04-14T19:25:49.7123736+03:00",
+    "LastSavedAt": "2026-04-14T19:25:49.8642214+03:00"
+  }
+]
